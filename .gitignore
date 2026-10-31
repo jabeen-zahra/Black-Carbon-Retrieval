@@ -7,10 +7,6 @@ venv/
 # Environment variables
 .env
 
-# Raw datasets
-data/raw/*
-!data/raw/.gitkeep
-
 # Processed datasets
 # Keep processed CSVs in Git for reproducibility
 data/processed/*.parquet
